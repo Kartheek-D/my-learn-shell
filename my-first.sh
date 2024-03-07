@@ -1,4 +1,8 @@
 #!/bin/bash
 
 echo "My first shell learning"
-echo "My second statement"
+
+
+a=10
+
+echo $a
